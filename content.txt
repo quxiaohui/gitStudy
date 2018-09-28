@@ -1,2 +1,4 @@
 1、git：版本控制工具
-2、git add 工作区添加到版本区
+2、git add 工作区添加到暂存区
+3、git commit  暂存区添加到版本区
+4、git diff 对比
